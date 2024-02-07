@@ -16,7 +16,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 1
+              Imobiliária Catena
             </a>
             {/* Sua imobiliária aqui */}
           </div>
@@ -25,7 +25,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 2
+              Imobiliária Cristina Milanez
             </a>
             {/* Sua imobiliária aqui */}
           </div>
@@ -34,7 +34,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 3
+              Imobiliária C&J
             </a>
             {/* Sua imobiliária aqui */}
           </div>
@@ -43,7 +43,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 4
+              Imobiliária Sarlo
             </a>
             {/* Sua imobiliária aqui */}
           </div>
